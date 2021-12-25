@@ -1,0 +1,71 @@
+*{
+	margin:0px;
+}
+body{
+	font-family:Monospace;
+}
+section{
+	margin:10px;
+}
+/*nav */
+.logo{
+	font-family:Helvetica;
+	margin-left:10px;
+	margin-right:10px;
+	color:Black;
+}
+.item{
+	width:10%;
+}
+.item2{;
+	width:20%;
+}
+.icon , .menu{
+	width:40px;
+}
+.item3{
+	width:70%;
+	text-align:right;
+}
+/*dropdown*/
+.drop{
+	text-align:right;
+	}
+.drop ,ul, ol {
+    list-style:none;
+}
+.drop ul li ul a{
+	color:black;
+    text-decoration:none;
+}
+.drop ul li ul a:hover{
+	color:white;
+	background-color:black;
+}
+.drop ul li ul li:hover{
+	display:block;
+}
+.drop ul > li {
+    float:right;
+}
+.drop ul li ul {
+    display:none;
+}
+.drop ul li:hover >ul{
+    display:inline-block;
+}
+.drop ul li ul li {
+  float:none;
+  position:relative;
+}
+
+.drop ul li ul li ul{
+  top:10px;
+}
+/*fin nav*/
+
+/*aside*/
+aside, footer{
+	text-align:center;
+	font-family:monospace;
+}
