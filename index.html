@@ -48,28 +48,10 @@
 		<main>
 			<section>
 				<article>
-					<form method="post" action="?">
-						Usuario <input type="text" name="user"><br>
-						Contraseña <input type="password" name="pass"><br>
-						<input type="submit" name="comprobar" value="Iniciar"">
-					</form>
-					<?php
-					echo $_SERVER["REMOTE_ADDR"];
-						if (isset($_POST["comprobar"])){
-							if ($_POST["user"]=="pedro"){
-								if ($_POST["pass"]=="admin"){
-									echo "<a href='hiperultraSecretContenido.php'>Entrar</a>";
-								}
-								else{echo "Contraseña Incorrecta";}
-							}
-							else{echo "Usuario No Registrado";}
-						}
-					?>
 				</article>
 			</section>
 			<aside id="contacto">
 				<hr>
-				<h1>hola mundo</h2>
 				<p>twitter: mmppppss</p>
 				<p>facebook: Pedro Pozo</p>
 				<p>github: mmppppss</p>
