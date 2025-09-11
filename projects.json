@@ -1,0 +1,47 @@
+[
+	{
+		"id": 2,
+		"title": "InfoCamiri",
+		"description": "InfoCamiri es un medio digital local diseñado para informar, conectar y dar voz a la comunidad de Camiri.",
+		"category": "software",
+		"image_url": "media/projects/infocamiri.png",
+		"repo_url": "https://github.com/mmppppss/infocamiri",
+		"url": "https://infocamiri.rf.gd"
+	},
+	{
+		"id": 3,
+		"title": "Panic Button",
+		"description": "Aplicación móvil desarrollada en Java.",
+		"category": "mobile",
+		"image_url": "./media/panic-button.png",
+		"repo_url": "https://github.com/mmppppss/panicButton",
+		"url": null
+	},
+	{
+		"id": 4,
+		"title": "Bot para WhatsApp",
+		"description": "Desarrollado usando JavaScript/NodeJS.",
+		"category": "software",
+		"image_url": "./media/whatsapp-bot.png",
+		"repo_url": "https://github.com/mmppppss/bot",
+		"url": null
+	},
+	{
+		"id": 1,
+		"title": "CineLibre",
+		"description": "Aplicación móvil para descubrir, buscar y explorar películas. Construida con React Native, Expo Router y TailwindCSS, con un diseño limpio, rápido y adaptable.",
+		"category": "mobile",
+		"image_url": "./media/cinelibre.png",
+		"repo_url": "https://github.com/mmppppss/cinelibre-rn",
+		"url": null
+	},
+	{
+		"id": 5,
+		"title": "Joven Esperanza",
+		"description": "Sistema web para la gestión administrativa de una organización no gubernamental. Incluye desarrollo frontend, backend e integración con bases de datos.",
+		"category": "software",
+		"image_url": "./media/joven-esperanza.png",
+		"repo_url": "https://github.com/mmppppss/sistema_j_e",
+		"url": null
+	}
+]
