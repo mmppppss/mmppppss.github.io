@@ -1,8 +1,146 @@
 {
 	"es": {
-		"about":"Soy un programador con habilidades en desarrollo web, bases de datos y programación. También tengo experiencia con tecnologías de nube como AWS EC2, Lightsail, Git y servidores. He desarrollado diversos proyectos que me han permitido adquirir experiencia en tecnologías frontend y backend, además de administración de bases de datos. Disfruto compartiendo mis conocimientos con otros y ayudando a alcanzar sus objetivos en programación y mejorar sus habilidades lógicas y algorítmicas."
+		"about": "Soy un programador apasionado por las Ciencias de la Computación, con especial interés en el desarrollo backend, la optimización de sistemas y la arquitectura de software. Disfruto comprender cómo funcionan las cosas a bajo nivel y aplicar principios de eficiencia en el diseño de mis soluciones. Tengo experiencia en desarrollo web, bases de datos y administración de servidores, además de conocimientos en tecnologías de nube como AWS EC2, Lightsail y Git. He trabajado en diversos proyectos que me han permitido adquirir experiencia tanto en frontend como en backend, pero mi enfoque principal es crear sistemas robustos, bien estructurados y orientados al rendimiento.",
+		"sections": {
+			"contact":"Contacto",
+			"projects":"Proyectos",
+			"about":"Sobre Mi",
+			"education":"Educación",
+			"experience":"Experiencia"
+		},
+		"skills": [
+			{
+				"name": "Sistemas Operativos",
+				"description": "Linux (especialmente Arch Linux, Debian y Ubuntu Server), Windows Server"
+			},
+			{
+				"name": "Administración de Servidores",
+				"description": "Configuración básica de servidores de bases de datos, SSH, RDP y VNC"
+			},
+			{
+				"name": "Virtualización",
+				"description": "Familiaridad con entornos de nube y máquinas virtuales"
+			},
+			{
+				"name": "Desarrollo de Software",
+				"description": "Modelado, Git, NodeJS, bases de datos e IDEs"
+			},
+			{
+				"name": "Automatización",
+				"description": "Interés en scripting para tareas administrativas (Bash)"
+			},
+			{
+				"name": "Lenguajes de Programación",
+				"description": "JavaScript, PHP, Java, Python, C"
+			},
+			{
+				"name": "Soluciones en la Nube",
+				"description": "AWS EC2, AWS Lightsail, Ubuntu Server"
+			},
+			{
+				"name": "Desarrollo Backend",
+				"description": "Flask, Laravel, Express"
+			},
+			{
+				"name": "Desarrollo Frontend",
+				"description": "Flet, ReactJS, React Native y tecnologías web, consumo de APIs"
+			}
+		],
+		"experience": [
+			{
+				"title": "Desarrollador Web Freelance",
+				"period": "Junio 2021 – Actual",
+				"description": "Diseño y mantenimiento de sitios web, desarrollo de APIs, integración frontend/backend y despliegue en la nube."
+			},
+			{
+				"title": "Proyectos Personales",
+				"period": "2020 – Actual",
+				"description": "Aplicaciones móviles, sistemas web y bots de automatización con diversas tecnologías."
+			}
+		],
+		"education": [
+			{
+				"title": "Ingeniería Informática - UAGRM",
+				"period": "Marzo 2022 – Actual (8vo semestre)",
+				"description": "Enfoque en sistemas, bases de datos y desarrollo de software."
+			},
+			{
+				"title": "Técnico en Redes y Sistemas Informáticos - Santa Clara",
+				"period": "Febrero 2020 – Diciembre 2021",
+				"description": "Formación técnica en redes, servidores y sistemas operativos."
+			}
+		]
 	},
 	"en": {
-		"about": ""
+		"about": "I am a programmer passionate about Computer Science, with a strong focus on backend development, system optimization, and software architecture. I enjoy understanding how things work at a low level and applying efficiency principles in my designs. I have experience in web development, databases, and server administration, as well as knowledge of cloud technologies such as AWS EC2, Lightsail, and Git. I have worked on various projects that allowed me to gain experience in both frontend and backend, but my main focus is building robust, well-structured, and performance-oriented systems.",
+		"sections": {
+			"contact":"Contact",
+			"projects":"Projects",
+			"about":"About Me",
+			"education":"Education",
+			"experience":"Experience"
+		},
+		"skills": [
+			{
+				"name": "Operating Systems",
+				"description": "Linux (especially Arch Linux, Debian, and Ubuntu Server), Windows Server"
+			},
+			{
+				"name": "Server Administration",
+				"description": "Basic configuration of database servers, SSH, RDP, and VNC"
+			},
+			{
+				"name": "Virtualization",
+				"description": "Familiarity with cloud environments and virtual machines"
+			},
+			{
+				"name": "Software Development",
+				"description": "Modeling, Git, NodeJS, databases, and IDEs"
+			},
+			{
+				"name": "Automation",
+				"description": "Interest in scripting for administrative tasks (Bash)"
+			},
+			{
+				"name": "Programming Languages",
+				"description": "JavaScript, PHP, Java, Python, C"
+			},
+			{
+				"name": "Cloud Solutions",
+				"description": "AWS EC2, AWS Lightsail, Ubuntu Server"
+			},
+			{
+				"name": "Backend Development",
+				"description": "Flask, Laravel, Express"
+			},
+			{
+				"name": "Frontend Development",
+				"description": "Flet, ReactJS, React Native, and web technologies with API consumption"
+			}
+		],
+		"experience": [
+			{
+				"title": "Freelance Web Developer",
+				"period": "June 2021 – Present",
+				"description": "Design and maintenance of websites, API development, frontend/backend integration, and cloud deployment."
+			},
+			{
+				"title": "Personal Projects",
+				"period": "2020 – Present",
+				"description": "Mobile applications, web systems, and automation bots using various technologies."
+			}
+		],
+		"education": [
+			{
+				"title": "Computer Science Engineering - UAGRM",
+				"period": "March 2022 – Present (8th semester)",
+				"description": "Focus on systems, databases, and software development."
+			},
+			{
+				"title": "Technician in Networks and Computer Systems - Santa Clara",
+				"period": "February 2020 – December 2021",
+				"description": "Technical training in networks, servers, and operating systems."
+			}
+		]
 	}
 }
