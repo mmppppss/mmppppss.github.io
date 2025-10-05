@@ -9,6 +9,15 @@
 		"url": "https://infocamiri.rf.gd"
 	},
 	{
+		"id": 6,
+		"title": "Compilador",
+		"description": "Lenguaje Interpretado hecho en C, el codigo se escribe en español.",
+		"category": "software",
+		"image_url": "./media/projects/compilador.png",
+		"repo_url": "https://github.com/mmppppss/compilador",
+		"url": null
+	},
+	{
 		"id": 3,
 		"title": "Panic Button",
 		"description": "Aplicación móvil desarrollada en Java.",
